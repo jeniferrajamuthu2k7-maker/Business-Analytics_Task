@@ -65,7 +65,7 @@ Users can select different categories or values and observe how the visualizatio
 The final Tableau dashboard combines all the visualizations into a single interactive view.
 
 🔗 **Tableau Public Dashboard:**
-[View Week 12 Tableau Dashboard](https://public.tableau.com/app/profile/jenifer.r7465/viz/week12_17914511997910/Dashboard1)
+[View Week 12 Tableau Dashboard](https://public.tableau.com/app/profile/jenifer.r7465/viz/week12task/Dashboard1?publish=yes)
 
 ---
 
