@@ -56,7 +56,7 @@ The E-Commerce Sales Analysis dashboard provides an interactive view of sales, p
 
 ## Tableau Public Dashboard
 
-[View Week 13 – E-Commerce Sales Analysis Dashboard](https://public.tableau.com/app/profile/jenifer.r7465/viz/week13_17935426679120/Dashboard1)
+[View Week 13 – E-Commerce Sales Analysis Dashboard](https://public.tableau.com/app/profile/jenifer.r7465/viz/week13_17935442837320/Dashboard1)
 
 ## Author
 **JENIFER**  
